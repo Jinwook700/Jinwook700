@@ -1,4 +1,4 @@
-<a href="[https://www.instagram.com/raina_____official?igsh=MTd1bGpzMzBxNjN2dg%3D%3D&utm_source=qr]" target="_blank"><img src="https://img.shields.io/badge/jinwook-E7F3FF?style=#E4405F&logoColor=FFF0E7"/></a>
+<a href="[https://www.instagram.com/raina_____official?igsh=MTd1bGpzMzBxNjN2dg%3D%3D&utm_source=qr]" target="_blank"><img src="https://img.shields.io/badge/jinwook-E7F3FF?style=for-the-badge&logo=#E4405F&logoColor=FFF0E7"/></a>
 
 
 
