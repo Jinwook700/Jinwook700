@@ -1,5 +1,5 @@
 <a href="https://www.instagram.com/raina_____official?igsh=MTd1bGpzMzBxNjN2dg%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/jinwook-B5FF76?style=for-the-badge&logo=instagram&logoColor=FC3629"/>
+    <img src="https://img.shields.io/badge/jinwook-B5FF76?style=for-the-badge&logo=instagram&logoColor=CCD4CD"/>
 </a>
 
 
