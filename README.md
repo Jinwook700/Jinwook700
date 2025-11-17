@@ -13,6 +13,10 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 <br><br>
 
+🚀 Projects 🚀 <br><br>
+[![GyeMong](https://img.shields.io/badge/GeyMong-19ccbd?style=for-the-badge)](https://프로젝트_주소) [![The Lost Sweet Kingdom](https://img.shields.io/badge/The%20Lost%20Sweet%20Kingdom-0b93c0?style=for-the-badge)](https://프로젝트_주소) [![Tori'sBurgerHouse](https://img.shields.io/badge/Tori's%20Burger%20House-0b3bc0?style=for-the-badge)](https://프로젝트_주소)
+<br><br>
+
 
 <a href="https://solved.ac/lao2000/" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lao2000" alt="Solved.ac Profile" width="30%">
