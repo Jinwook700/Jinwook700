@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:6da2b5,100:e3eaec&text=JinWook&desc=Game%20Client%20Developer&fontColor=447272&strokeWidth=1&stroke=3a4a4a&fontSize=40&descAlignY=80)
 
 💎 Profile & Contact 💎 <br><br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lliliol_?igsh=MTd1bGpzMzBxNjN2dg%3D%3D&utm_source=qr) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jabgok.tistory.com/?igsh=MTd1bGpzMzBxNjN2dg%3D%3D&utm_source=qr) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pleonnet07@gmail.com)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jabgok.tistory.com/?igsh=MTd1bGpzMzBxNjN2dg%3D%3D&utm_source=qr) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pleonnet07@gmail.com)
 <br><br>
 
 🌟 Language 🌟 <br><br>
