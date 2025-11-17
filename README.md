@@ -14,7 +14,7 @@
 <br><br>
 
 🚀 Projects 🚀 <br><br>
-[![GyeMong](https://img.shields.io/badge/GeyMong-19ccbd?style=for-the-badge)](https://프로젝트_주소) [![The Lost Sweet Kingdom](https://img.shields.io/badge/The%20Lost%20Sweet%20Kingdom-0b93c0?style=for-the-badge)](https://프로젝트_주소) [![Tori'sBurgerHouse](https://img.shields.io/badge/Tori's%20Burger%20House-0b3bc0?style=for-the-badge)](https://프로젝트_주소)
+[![GyeMong](https://img.shields.io/badge/GeyMong-19ccbd?style=for-the-badge)](https://github.com/Jinwook700/GyeMong) [![The Lost Sweet Kingdom](https://img.shields.io/badge/The%20Lost%20Sweet%20Kingdom-0b93c0?style=for-the-badge)](https://github.com/Jinwook700/The-Lost-Sweet-Kingdom) [![Tori'sBurgerHouse](https://img.shields.io/badge/Tori's%20Burger%20House-0b3bc0?style=for-the-badge)](https://github.com/Jinwook700/Toris-Burger-House)
 <br><br>
 
 
