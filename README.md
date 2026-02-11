@@ -22,8 +22,6 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lao2000" alt="Solved.ac Profile" width="30%">
 </a>
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinwook700&show_icons=true&theme=holi)
  
    
   
