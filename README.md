@@ -25,16 +25,18 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 <br><br>
 
-🚀 Projects 🚀 <br><br>
-[![MoePang](https://img.shields.io/badge/MoePang-E0F2FE?style=for-the-badge)]( https://github.com/Jinwook700/MoePang) [![The Lost Sweet Kingdom](https://img.shields.io/badge/The%20Lost%20Sweet%20Kingdom-0b93c0?style=for-the-badge)](https://github.com/Jinwook700/The-Lost-Sweet-Kingdom) [![GyeMong](https://img.shields.io/badge/GyeMong-19ccbd?style=for-the-badge)](https://github.com/Jinwook700/GyeMong) [![Tori'sBurgerHouse](https://img.shields.io/badge/Tori's%20Burger%20House-0b3bc0?style=for-the-badge)](https://github.com/Jinwook700/Toris-Burger-House) 
-<br><br>
-</a>
-<br>
 ## 🎮 Game Projects
+
+### Featured
 
 | Game | Genre & Contributions |
 |:---:|---|
 | <a href="https://github.com/Jinwook700/MoePang"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/moepang.svg" width="280" height="42" alt="MoePang"></a> | 3-Match Puzzle + Lane Defense · Combat System, Unit Data, Unlock & Upgrade |
 | <a href="https://github.com/Jinwook700/The-Lost-Sweet-Kingdom"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/lost-sweet-kingdom.svg" width="280" height="42" alt="The Lost Sweet Kingdom"></a> | Tower Defense · Key Implementations |
+
+### Other Projects
+
+| Game | Genre & Contributions |
+|:---:|---|
 | <a href="https://github.com/Jinwook700/GyeMong"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/gyemong.svg" width="280" height="42" alt="GyeMong"></a> | Boss Rush · Key Implementations |
 | <a href="https://github.com/Jinwook700/Toris-Burger-House"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/toris-burger-house.svg" width="280" height="42" alt="Tori's Burger House"></a> | Genre · Key Implementations |
