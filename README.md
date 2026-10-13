@@ -5,7 +5,7 @@
 <br><br>
 
 🌟 Language 🌟 <br><br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 <br><br>
 
 🎮 Tech Stack 🎮 <br><br>
@@ -30,6 +30,11 @@
 <br><br>
 </a>
 <br>
-  
- 
- 
+## 🎮 Game Projects
+
+| Game | Genre & Contributions |
+|:---:|---|
+| <a href="https://github.com/Jinwook700/MoePang"><img src="assets/game-badges/moepang.svg" width="280" height="42" alt="MoePang"></a> | 3-Match Puzzle + Lane Defense · Combat System, Unit Data, Unlock & Upgrade |
+| <a href="https://github.com/Jinwook700/The-Lost-Sweet-Kingdom"><img src="assets/game-badges/lost-sweet-kingdom.svg" width="280" height="42" alt="The Lost Sweet Kingdom"></a> | Tower Defense · Key Implementations |
+| <a href="https://github.com/Jinwook700/GyeMong"><img src="assets/game-badges/gyemong.svg" width="280" height="42" alt="GyeMong"></a> | Boss Rush · Key Implementations |
+| <a href="https://github.com/Jinwook700/Toris-Burger-House"><img src="assets/game-badges/toris-burger-house.svg" width="280" height="42" alt="Tori's Burger House"></a> | Genre · Key Implementations |
