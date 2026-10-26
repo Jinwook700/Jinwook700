@@ -25,21 +25,22 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 <br><br>
 
+
 ## 🎮 Game Projects
 
 ### Featured
 
-| Game | Genre & Contributions |
+| Game | Description & Platform |
 |:---:|---|
-| <a href="https://github.com/Jinwook700/MoePang"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/moepang.svg" width="280" height="42" alt="MoePang"></a> | 3-Match Puzzle + Lane Defense · Combat System, Unit Data, Unlock & Upgrade |
-| <a href="https://github.com/Jinwook700/The-Lost-Sweet-Kingdom"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/lost-sweet-kingdom.svg" width="280" height="42" alt="The Lost Sweet Kingdom"></a> | Tower Defense · Key Implementations |
-| <a href="https://github.com/Jinwook700/GyeMong"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/gyemong.svg" width="280" height="42" alt="GyeMong"></a> | Boss Rush · Key Implementations |
-
+| <a href="https://github.com/Jinwook700/MoePang"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/moepang.svg" width="280" height="42" alt="MoePang"></a> | A hybrid game combining Match-3 puzzles with lane defense.<br>**Platform:** Mobile |
+| <a href="https://github.com/Jinwook700/The-Lost-Sweet-Kingdom"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/lost-sweet-kingdom.svg" width="280" height="42" alt="The Lost Sweet Kingdom"></a> | A tower defense game featuring a reroll mechanic.<br>**Platform:** PC |
+| <a href="https://github.com/Jinwook700/GyeMong"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/gyemong.svg" width="280" height="42" alt="GyeMong"></a> | An action game focused on defeating bosses in sequence.<br>**Platform:** PC |
 
 ### Other Projects
 
-| Game | Genre & Contributions |
+| Game | Description & Platform |
 |:---:|---|
-| <a href="https://github.com/Jinwook700/Toris-Burger-House"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/toris-burger-house.svg" width="280" height="42" alt="Tori's Burger House"></a> | Genre · Key Implementations |
-| <a href="https://github.com/Jinwook700/SafeKitchen"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/safe-kitchen.svg" width="280" height="42" alt="Safe Kitchen"></a> | Genre · Key Implementations |
-| <a href="https://github.com/Jinwook700/WordVenture"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/wordventure.svg" width="280" height="42" alt="WordVenture"></a> | Genre · Key Implementations |
+| <a href="https://github.com/Jinwook700/Toris-Burger-House"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/toris-burger-house.svg" width="280" height="42" alt="Tori's Burger House"></a> | A hyper-casual game about making burgers.<br>**Platform:** WebGL |
+| <a href="https://github.com/Jinwook700/SafeKitchen"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/safe-kitchen.svg" width="280" height="42" alt="Safe Kitchen"></a> | A gas safety challenge game developed with AI assistance across planning, art, and programming.<br>**Platform:** PC |
+| <a href="https://github.com/Jinwook700/WordVenture"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/wordventure.svg" width="280" height="42" alt="WordVenture"></a> | A turn-based game where players combine word cards to defeat incoming slimes.<br>**Platform:** PC |
+
