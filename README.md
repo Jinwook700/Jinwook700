@@ -41,6 +41,6 @@
 | Game | Description & Platform |
 |:---:|---|
 | <a href="https://github.com/Jinwook700/Toris-Burger-House"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/toris-burger-house.svg" width="280" height="42" alt="Tori's Burger House"></a> | A hyper-casual game about making burgers.<br>**Platform:** WebGL |
-| <a href="https://github.com/Jinwook700/SafeKitchen"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/safe-kitchen.svg" width="280" height="42" alt="Safe Kitchen"></a> | A gas safety challenge game developed with AI assistance across planning, art, and programming.<br>**Platform:** PC |
+| <a href="https://github.com/Jinwook700/SafeKitchen"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/safe-kitchen.svg" width="280" height="42" alt="Safe Kitchen"></a> | A gas safety challenge game developed with AI assistance <br>across planning, art, and programming.<br>**Platform:** PC |
 | <a href="https://github.com/Jinwook700/WordVenture"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/wordventure.svg" width="280" height="42" alt="WordVenture"></a> | A turn-based game where players combine word cards to defeat incoming slimes.<br>**Platform:** PC |
 
