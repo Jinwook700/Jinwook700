@@ -35,10 +35,11 @@
 | <a href="https://github.com/Jinwook700/The-Lost-Sweet-Kingdom"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/lost-sweet-kingdom.svg" width="280" height="42" alt="The Lost Sweet Kingdom"></a> | Tower Defense · Key Implementations |
 | <a href="https://github.com/Jinwook700/GyeMong"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/gyemong.svg" width="280" height="42" alt="GyeMong"></a> | Boss Rush · Key Implementations |
 
+
 ### Other Projects
 
 | Game | Genre & Contributions |
 |:---:|---|
 | <a href="https://github.com/Jinwook700/Toris-Burger-House"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/toris-burger-house.svg" width="280" height="42" alt="Tori's Burger House"></a> | Genre · Key Implementations |
-| <a href="https://github.com/Jinwook700/SafeKitchen"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/gyemong.svg" width="280" height="42" alt="Safe Kitchen"></a> | Boss Rush · Key Implementations |
-| <a href="https://github.com/Jinwook700/WordVenture"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/gyemong.svg" width="280" height="42" alt="WordVenture"></a> | Boss Rush · Key Implementations |
+| <a href="https://github.com/Jinwook700/SafeKitchen"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/safe-kitchen.svg" width="280" height="42" alt="Safe Kitchen"></a> | Genre · Key Implementations |
+| <a href="https://github.com/Jinwook700/WordVenture"><img src="https://raw.githubusercontent.com/Jinwook700/Jinwook700/main/game-badges/wordventure.svg" width="280" height="42" alt="WordVenture"></a> | Genre · Key Implementations |
